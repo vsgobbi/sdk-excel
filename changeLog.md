@@ -1,1 +1,1 @@
-Versioning test 
+version = 0.0.2
